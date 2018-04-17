@@ -1,0 +1,20 @@
+C:\work\CS_NET\Northwind.Data\bin\Debug\Northwind.Data.dll
+C:\work\CS_NET\Northwind.Data\bin\Debug\Northwind.Data.pdb
+C:\work\CS_NET\Northwind.Data\obj\Debug\Northwind.Data.dll
+C:\work\CS_NET\Northwind.Data\obj\Debug\Northwind.Data.pdb
+C:\work\CS_NET\Northwind.Data\obj\Debug\Northwind.Data.csprojResolveAssemblyReference.cache
+C:\temp\CS_NET\Northwind.Data\bin\Debug\Northwind.Data.dll
+C:\temp\CS_NET\Northwind.Data\bin\Debug\Northwind.Data.pdb
+C:\temp\CS_NET\Northwind.Data\obj\Debug\Northwind.Data.csprojResolveAssemblyReference.cache
+C:\temp\CS_NET\Northwind.Data\obj\Debug\Northwind.Data.dll
+C:\temp\CS_NET\Northwind.Data\obj\Debug\Northwind.Data.pdb
+D:\Winter2018\CPSC1517 - Intro to App Dev\ASP.net\CS_NET\CS_NET\Northwind.Data\bin\Debug\Northwind.Data.dll
+D:\Winter2018\CPSC1517 - Intro to App Dev\ASP.net\CS_NET\CS_NET\Northwind.Data\bin\Debug\Northwind.Data.pdb
+D:\Winter2018\CPSC1517 - Intro to App Dev\ASP.net\CS_NET\CS_NET\Northwind.Data\obj\Debug\Northwind.Data.csprojResolveAssemblyReference.cache
+D:\Winter2018\CPSC1517 - Intro to App Dev\ASP.net\CS_NET\CS_NET\Northwind.Data\obj\Debug\Northwind.Data.dll
+D:\Winter2018\CPSC1517 - Intro to App Dev\ASP.net\CS_NET\CS_NET\Northwind.Data\obj\Debug\Northwind.Data.pdb
+C:\Users\wmorrissey1\Desktop\CS_NET\Northwind.Data\bin\Debug\Northwind.Data.dll
+C:\Users\wmorrissey1\Desktop\CS_NET\Northwind.Data\bin\Debug\Northwind.Data.pdb
+C:\Users\wmorrissey1\Desktop\CS_NET\Northwind.Data\obj\Debug\Northwind.Data.csprojResolveAssemblyReference.cache
+C:\Users\wmorrissey1\Desktop\CS_NET\Northwind.Data\obj\Debug\Northwind.Data.dll
+C:\Users\wmorrissey1\Desktop\CS_NET\Northwind.Data\obj\Debug\Northwind.Data.pdb
